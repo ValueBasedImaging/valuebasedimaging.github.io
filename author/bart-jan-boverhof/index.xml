@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bart-Jan Boverhof | Value-Based Imaging Research Group</title>
+    <link>https://example.com/author/bart-jan-boverhof/</link>
+      <atom:link href="https://example.com/author/bart-jan-boverhof/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bart-Jan Boverhof</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/bart-jan-boverhof/avatar_hu17095225331081153704.jpg</url>
+      <title>Bart-Jan Boverhof</title>
+      <link>https://example.com/author/bart-jan-boverhof/</link>
+    </image>
+    
+    <item>
+      <title>Bart-Jan Boverhof</title>
+      <link>https://example.com/author/bart-jan-boverhof/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/author/bart-jan-boverhof/</guid>
+      <description>&lt;p&gt;I am PhD candidate at the Erasmus School of Health Policy &amp;amp; Management titled: Health Technology Assessment of Artificial Intelligence. My research interests are in the evaluation of clinical Artificial Intelligence (AI) systems, AI in general, Explainabiity, Fairness and Statistics.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

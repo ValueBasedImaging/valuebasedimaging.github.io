@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jan-Jaap Visser | Value-Based Imaging Research Group</title>
+    <link>https://example.com/author/jan-jaap-visser/</link>
+      <atom:link href="https://example.com/author/jan-jaap-visser/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jan-Jaap Visser</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/jan-jaap-visser/avatar_hu16251774256365718829.jpg</url>
+      <title>Jan-Jaap Visser</title>
+      <link>https://example.com/author/jan-jaap-visser/</link>
+    </image>
+    
+  </channel>
+</rss>

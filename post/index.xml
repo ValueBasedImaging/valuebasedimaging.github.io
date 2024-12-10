@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | Value-Based Imaging Research Group</title>
+    <link>https://example.com/post/</link>
+      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu3815780461147969413.png</url>
+      <title>Latest News</title>
+      <link>https://example.com/post/</link>
+    </image>
+    
+    <item>
+      <title>New Paper Erik Kemper - How to get Valuable Radiology AI</title>
+      <link>https://example.com/post/paper-erik-2024-dec/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/paper-erik-2024-dec/</guid>
+      <description>&lt;p&gt;Erik has studied the use of early health technology assessment in the radiology AI development to facilitate value-based AI and thereby bridge the gap between research and clinical practice. and his considerable contribution were outlined in the paper, “ESR Essentials: how to get to valuable radiology AI: the role of early health technology assessment—practice recommendations by the European Society of Medical Imaging Informatics”&lt;/p&gt;
+&lt;p&gt;New and better-performing AI tools for radiology appear almost every day. However, it is questionable whether these tools address todays clinical needs. Early assessment during the development of new AI for radiology helps developers create more value for their tool while providing end-users with greater transparency on the risks and benefits of the AI.
+In this work, they (Erik with the co-authors, in particular, Martijn from the BIGR) describe the concept of early health technology assessment and outline the changes needed to assess AI for radiology. Practical methods and examples of performed early health technology assessments are provided, showing how it can be applied to AI in radiology.&lt;/p&gt;
+&lt;p&gt;💡 Key takeaways:
+Value in radiology AI should be perceived as a comprehensive term including health technology assessment domains and AI-specific domains.
+Incorporation of an early health technology assessment for radiology AI during development will lead to more valuable radiology AI tools.
+Comprehensive and transparent value assessment of radiology AI tools is essential for their widespread adoption.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Paper Bart-Jan Boverhof - Radiology AI Deployment and Assessment Rubric (RADAR)</title>
+      <link>https://example.com/post/paper-bj-2024-march/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/paper-bj-2024-march/</guid>
+      <description>&lt;p&gt;This paper introduces the Radiology AI Deployment and Assessment Rubric (RADAR), a comprehensive framework for the value assessment of artificial intelligence in radiology.&lt;/p&gt;
+&lt;p&gt;1️⃣ RADAR adapts Fryback and Thornbury’s imaging efficacy framework for radiology AI, emphasizing the valuation from conception to local implementation.&lt;/p&gt;
+&lt;p&gt;2️⃣ It presents a seven-level hierarchy to guide radiologists, researchers, and policymakers through the comprehensive assessment of radiology AI&amp;rsquo;s value.&lt;/p&gt;
+&lt;p&gt;3️⃣ The framework integrates clinical integration and cost-effectiveness, utilizing study designs like in silico clinical trials, randomized controlled trials, and health economic evaluations.&lt;/p&gt;
+&lt;p&gt;4️⃣ RADAR emphasizes local efficacy, highlighting the importance of assessing AI technology within its specific environment.&lt;/p&gt;
+&lt;p&gt;5️⃣ It aims to bridge the gap in the implementation of AI in clinical radiology, ensuring technologies are assessed thoroughly for their clinical and economic value.&lt;/p&gt;
+&lt;p&gt;The paper advocates for a dynamic approach to the evaluation of AI in radiology, aligning with principles of value-based radiology and addressing the need for a standardized method in comprehensive AI valuation.&lt;/p&gt;
+&lt;p&gt;✍🏻 Bart-Jan Boverhof, Ken Redekop, Daniel Bos et al. Radiology AI Deployment and Assessment Rubric (RADAR) to bring value-based AI into radiological practice. Insights Imaging 15, 34 (2024). DOI: 10.1186/s13244-023-01599-z&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

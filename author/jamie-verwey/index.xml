@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jamie Verwey | Value-Based Imaging Research Group</title>
+    <link>https://example.com/author/jamie-verwey/</link>
+      <atom:link href="https://example.com/author/jamie-verwey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jamie Verwey</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/jamie-verwey/avatar_hu2845014612951591959.jpg</url>
+      <title>Jamie Verwey</title>
+      <link>https://example.com/author/jamie-verwey/</link>
+    </image>
+    
+  </channel>
+</rss>
