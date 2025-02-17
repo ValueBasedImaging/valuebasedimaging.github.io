@@ -2,14 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/event/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/post/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -37,13 +29,31 @@
     <loc>https://example.com/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/author/asabi-leliveld/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/authors/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/bart-jan-boverhof/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/author/bo-willems/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/erik-kemper/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/gigi-visser/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/h_huitenreebk/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/huib-ruitenbeek/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/author/jamie-verwey/</loc>
@@ -55,10 +65,19 @@
     <loc>https://example.com/author/jan-jaap-visser/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/author/jasika-paramasamy/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/julie-hamm/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tags/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/author/xinyi-wan/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

@@ -7,10 +7,19 @@
     <description>Jamie Verwey</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/author/jamie-verwey/avatar_hu2845014612951591959.jpg</url>
+      <url>https://example.com/media/icon_hu3815780461147969413.png</url>
       <title>Jamie Verwey</title>
       <link>https://example.com/author/jamie-verwey/</link>
     </image>
+    
+    <item>
+      <title>Jamie Verwey</title>
+      <link>https://example.com/author/jamie-verwey/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/author/jamie-verwey/</guid>
+      <description>&lt;p&gt;Jamie Verwey is a PhD Candidate in the field of technology acceptance. Aiming to create and understanding of the involved stakeholders and values that affect tehnology acceptance to enhance the wider uptake of radiological AI in clincal practice.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

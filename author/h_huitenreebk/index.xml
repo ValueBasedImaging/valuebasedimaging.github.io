@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H_huitenreebk | Value-Based Imaging Research Group</title>
+    <link>https://example.com/author/h_huitenreebk/</link>
+      <atom:link href="https://example.com/author/h_huitenreebk/index.xml" rel="self" type="application/rss+xml" />
+    <description>H_huitenreebk</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/icon_hu3815780461147969413.png</url>
+      <title>H_huitenreebk</title>
+      <link>https://example.com/author/h_huitenreebk/</link>
+    </image>
+    
+    <item>
+      <title>Huib Ruitenbeek</title>
+      <link>https://example.com/author/huib-ruitenbeek/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/author/huib-ruitenbeek/</guid>
+      <description>&lt;p&gt;Artificial Intelligence (AI) has the potential to transform radiology by automating tasks and reducing workload, but clinical evaluation of these algorithms remains limited. Through collaboration between AI vendors and ErasmusMC, I aim to bridge this gap and provide valuable insights into AI&amp;rsquo;s role in clinical practice.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

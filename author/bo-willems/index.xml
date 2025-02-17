@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bo Willems | Value-Based Imaging Research Group</title>
+    <link>https://example.com/author/bo-willems/</link>
+      <atom:link href="https://example.com/author/bo-willems/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bo Willems</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/bo-willems/avatar_hu2230122426088238060.png</url>
+      <title>Bo Willems</title>
+      <link>https://example.com/author/bo-willems/</link>
+    </image>
+    
+    <item>
+      <title>Bo Willems</title>
+      <link>https://example.com/author/bo-willems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/author/bo-willems/</guid>
+      <description>&lt;p&gt;The PINPOINT study aims to improve outcomes of patients with lung cancer by diagnosing as early as possible. Within our group, I will focus my research on the implementation of AI, determining the cost-effectiveness of AI tools and showing the carbon footprint when using these innovative solutions. Next to my work at AstraZeneca, where I am responsible for our thoracic oncology portfolio, I aim to improve lives of lung cancer patients with this PhD&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

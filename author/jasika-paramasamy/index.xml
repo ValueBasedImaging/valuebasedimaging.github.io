@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jasika Paramasamy | Value-Based Imaging Research Group</title>
+    <link>https://example.com/author/jasika-paramasamy/</link>
+      <atom:link href="https://example.com/author/jasika-paramasamy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jasika Paramasamy</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/jasika-paramasamy/avatar_hu16085167854573436791.JPG</url>
+      <title>Jasika Paramasamy</title>
+      <link>https://example.com/author/jasika-paramasamy/</link>
+    </image>
+    
+    <item>
+      <title>Jasika Paramasamy</title>
+      <link>https://example.com/author/jasika-paramasamy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/author/jasika-paramasamy/</guid>
+      <description>&lt;p&gt;My research focuses on the clinical implementation of AI technologies to improve the detection and follow-up of lung nodules in radiology. I aim to bridge the gap between AI algorithm development and real-world clinical practice by evaluating their impact on radiological workflows, patient outcomes, and healthcare efficiency. Through this work, I strive to optimize the integration of AI into routine practice, ensuring it enhances diagnostic accuracy and contributes to early lung cancer detection.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

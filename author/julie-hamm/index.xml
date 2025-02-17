@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julie Hamm | Value-Based Imaging Research Group</title>
+    <link>https://example.com/author/julie-hamm/</link>
+      <atom:link href="https://example.com/author/julie-hamm/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julie Hamm</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/julie-hamm/avatar_hu15151358617161563658.png</url>
+      <title>Julie Hamm</title>
+      <link>https://example.com/author/julie-hamm/</link>
+    </image>
+    
+    <item>
+      <title>Julie Hamm</title>
+      <link>https://example.com/author/julie-hamm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/author/julie-hamm/</guid>
+      <description>&lt;p&gt;The topic of my research is lung nodules and peritoneal metastases of patients with colorectal cancer. We aim to develop a deep-learning model that can predict the prognosis of lung nodules in patients with colorectal cancer&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

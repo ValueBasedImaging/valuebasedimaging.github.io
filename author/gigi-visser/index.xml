@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gigi Visser | Value-Based Imaging Research Group</title>
+    <link>https://example.com/author/gigi-visser/</link>
+      <atom:link href="https://example.com/author/gigi-visser/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gigi Visser</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/author/gigi-visser/avatar_hu16577812530429512383.png</url>
+      <title>Gigi Visser</title>
+      <link>https://example.com/author/gigi-visser/</link>
+    </image>
+    
+    <item>
+      <title>Gigi Visser</title>
+      <link>https://example.com/author/gigi-visser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/author/gigi-visser/</guid>
+      <description>&lt;p&gt;My research interests include the social and organizational aspects of the digital transformation of healthcare. I employ ethnographic research methods to try and immerse myself in practices and understand them from the perspective of my research participants.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
